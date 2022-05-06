@@ -3,15 +3,6 @@
 //0, 7, 8, -2, -2 -> 2
 //-1, -7, 567, 89, 223-> 3
 
-//string d = Console.ReadLine();
-///string[]arr = d.Split("");
-//for (int i=0;i<arr.Length;i++)
-//{
- // Console.WriteLine(arr[i]+",");  
-//}
-//int some = int Parse(arr[i]);
-//Console.Write(some*some+"");
-
 Console.Write("Пользователь вводит числа через пробел: ");
 int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 //int [] arr = new int [10];
