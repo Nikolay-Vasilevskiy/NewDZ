@@ -13,7 +13,7 @@ var k2 = Convert.ToDouble(Console.ReadLine());//Преобразует зада�
 
 var x = (b2 - b1) / (k1 - k2);// k1 *x + b1 = k2 * x + b2
 var y = k1 * x + b1; 
-x = Math.Round(x, 3);
-y = Math.Round(y, 3);
+x = Math.Round(x, 3);//округляет до целого числа
+y = Math.Round(y, 3);//округляет до целого числа
  
 Console.WriteLine($"Пересечение в точке: ({x};{y})");
