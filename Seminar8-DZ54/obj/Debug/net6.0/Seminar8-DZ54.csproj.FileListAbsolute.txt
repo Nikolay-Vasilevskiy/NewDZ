@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\bin\Debug\net6.0\Seminar8-DZ54.exe
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\bin\Debug\net6.0\Seminar8-DZ54.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\bin\Debug\net6.0\Seminar8-DZ54.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\bin\Debug\net6.0\Seminar8-DZ54.dll
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\bin\Debug\net6.0\Seminar8-DZ54.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.dll
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\refint\Seminar8-DZ54.dll
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\Seminar8-DZ54.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\C#\Examples\Seminar8-DZ54\obj\Debug\net6.0\ref\Seminar8-DZ54.dll
